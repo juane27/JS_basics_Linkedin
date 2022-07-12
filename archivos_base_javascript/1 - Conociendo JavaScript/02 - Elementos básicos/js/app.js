@@ -1,1 +1,1 @@
-alert('Hola desde un archivo externo');
+alert('Hola desde un archivo externo. Por Juane');
