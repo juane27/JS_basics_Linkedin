@@ -1,11 +1,12 @@
 "use strict"
 
-var bebida = "agua";
+var bebida = "vino";
 
-var comida = 'ceviche';
+var comida = 'asado';
 
-var instrucción = "El platillo se llama 'ceviche' ";
+var instrucción = "Hoy comemos asado";
 
-var edad = 34;
+var edad = 29;
 
+//Convertir a string
 var edadtxt = String(edad)

@@ -1,14 +1,15 @@
 "use strict"
 
-var nombre = 'Sergio';
+var nombre = 'Juane';
 
 console.log(nombre)
 
 function saludo() {
-  let nombre = 'yacafx';
+// Palabra reservada let. Es un contenedor de bloque. Solo funcionan dentro de la función.
+  let nombre = 'Juan Esteban';
     console.log(nombre)
     
- let edad = 34; 
+ let edad = 29; 
   console.log(edad)
 }
 
